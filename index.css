@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./programmer.jpg);
+    background-size: cover;
+    font-weight: normal;
+    color: wheat;
+}
+
+#title{
+    text-align: center;
+    margin-top: 70px;
+}
+
+#description{
+    text-align: center;
+}
+
+#survey-form {
+    background-color: #d64161;
+    opacity: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 50px;
+    line-height: 30px;
+}
+
+#name-label {
+    
+}
+
+#name, #email, #number {
+    height: 40px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+
